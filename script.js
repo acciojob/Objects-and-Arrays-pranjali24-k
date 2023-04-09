@@ -4,9 +4,9 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-var tean=players;
+let tean=players;
 let team1 = ["John", "Bob", "Alice", "Poppy"];
-const cap1 = {
+let cap1 = {
   name: "John Doe",
   age: 80,
 };
